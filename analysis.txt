@@ -1,0 +1,7 @@
+1. The first observable trend I noticed was that there are far fewer female players of Heroes Of Pymoli (484 males to 81 females); however, females are more likely to spend a larger amount of money on purchases($4.07 for males and $4.47 for females).
+
+2. Another observable trend to pay attention to is that 75% of the player base is between that ages of 15 and 30. They also account for about 75% of the total purchases in Heroes of Pymoli ($1,819.95 / $2,379.77)
+
+3. Lastly, we can see from the most popular items and the most profitable items, many of the items are the same. However, there are some cheaper items with more purchases (ex. "Persuasion" and "Extraction, Quickblade Of Trembling Hands") that did not reach the most profitable list. 
+
+After observing these three things I would suggest trying to direct future items to appeal to males between the ages of 15 and 30. If the item is popular between the overwhelming demographic of the playerbase than it is likely to be more profitable. 
